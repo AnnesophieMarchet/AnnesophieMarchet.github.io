@@ -33,6 +33,7 @@ nav .profile img{
 nav .profile h1{
     font-size: 20px;
     margin-left:10px ;
+    
 }
 
 nav ul{
@@ -100,7 +101,9 @@ nav ul li {
  .page-content header p{
   line-height: 25px;
   color: #818181;
-  text-indent: 30px
+  text-indent: 30px;
+  text-align: justify;
+  
  }
 
  .page-content header a{
@@ -164,6 +167,7 @@ nav ul li {
  
   .page-content .projects-section .projects .project .description{
     font-size: 10px;
+    
   }
 
   .page-content .projects-section .projects .project .dates{
